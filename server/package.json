@@ -10,7 +10,9 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.17.1",
+        "idb": "^7.1.1",
+        "webpack-pwa-manifest": "^4.3.0"
     },
     "devDependencies": {
         "nodemon": "^2.0.4"
